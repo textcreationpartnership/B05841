@@ -1,0 +1,567 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>St. Ignatius's ghost, appearing to the Jesuits; upon the King's signing the act against the growth of popery. A satyr.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05841</idno>
+            <idno type="STC">Wing S320</idno>
+            <idno type="STC">ESTC R183184</idno>
+            <idno type="EEBO-CITATION">52614905</idno>
+            <idno type="OCLC">ocm 52614905</idno>
+            <idno type="VID">176072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176072)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>St. Ignatius's ghost, appearing to the Jesuits; upon the King's signing the act against the growth of popery. A satyr.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain --  Humor --  Early works to 1800.</term>
+               <term>Jesuits --  Humor --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+               <term>Religious satire, English --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176072:1"/>
+            <pb facs="tcp:176072:1" rendition="simple:additions"/>
+            <p>St. Ignatius's Ghoſt, Appearing to the JESUITS; Upon The KING'S Signing the ACT Againſt The GROWTH OF POPERY.</p>
+            <p>A SATYR.</p>
+            <p>London, Printed for A. Baldwin. 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176072:2"/>
+            <pb n="3" facs="tcp:176072:2"/>
+            <head>St. Ignatius's Ghoſt, Appearing to the JESUITS; Upon The KING'S Signing the ACT, &amp;c.</head>
+            <lg>
+               <l>SAD News the Court of <hi>Belzebub</hi> Alarms,</l>
+               <l>And make the Guards of Hell ſtand to their Arms;</l>
+               <l>For Agents which into theſe Regions fly,</l>
+               <l>The Courſe of Humane Actions to eſpy,</l>
+               <l>Inform the King of Fates he'll be in Thrall,</l>
+               <l>The main Supporters of his Throne do Fall</l>
+               <l>Since new Enacted Laws make you to fly</l>
+               <l>The chiefeſt place which Harbours <hi>Hereſy;</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:176072:3"/>
+Therefore Ambaſſador, I'm to you ſent,</l>
+               <l>The Downfal of my Maſter to prevent.</l>
+            </lg>
+            <lg>
+               <l>We (who I thought could baffle Death and Hell,</l>
+               <l>And durſt like them againſt a GOD Rebel)</l>
+               <l>From rocky Dangers into Coverts fly?</l>
+               <l>It is a Shame to my Society!</l>
+               <l>What Planet Envies us? We loſe o'r Fame,</l>
+               <l>And ſhall be Branded with Eternal Shame.</l>
+               <l>You <hi>Jeſuits,</hi> and dare not prop o'r Cauſe,</l>
+               <l>For fear of Suffering by <hi>Engliſh</hi> Laws?</l>
+               <l>No Blood of <hi>Roman</hi> Courage fills thoſe Veins,</l>
+               <l>Which dare not ruſh though Priſons, Halters, Chains,</l>
+               <l>The Race of <hi>Hereticks</hi> to Extirpate,</l>
+               <l>And think it Glory if you meet your Fate.</l>
+            </lg>
+            <lg>
+               <l>O! what a Glorious Sight was it to ſee,</l>
+               <l>Poor <hi>Maſſianello</hi> frighten Majeſty,</l>
+               <l>And <hi>John</hi> of <hi>Leyden</hi> be a King declar'd;</l>
+               <l>Shall we by ſuch mean Fellows be out-dar'd?</l>
+               <l>The very Offals, Rubbiſh of Mankind,</l>
+               <l>By-caſts of Fortune; it diſturbs my Mind!</l>
+               <l>If you will have your Names look Great, and ſwell</l>
+               <l>Big in the Rolls of Fame, and Liſts of Hell,</l>
+               <l>You muſt be Daring, Reſolute, and Bold,</l>
+               <l>By Blood the <hi>Sea-Apoſtolick</hi> uphold.</l>
+            </lg>
+            <lg>
+               <l>When you the Sword have altogether Sway'd,</l>
+               <l>You've Careleſs been, a ſorry Harveſt made;</l>
+               <l>
+                  <pb n="5" facs="tcp:176072:3"/>
+Witneſs, when <hi>Mary</hi> roll'd her Orb in Flames,</l>
+               <l>Which ſtrove for Luſter with the Sun's bright Beams;</l>
+               <l>But too too little was the waving Blaze,</l>
+               <l>To dimn the brightneſs of his Golden Rays:</l>
+               <l>Her Courage for her Highneſs was too Mean;</l>
+               <l>The Off'ring was too much beneath a Queen:</l>
+               <l>She flag'd in Fear, and buckled to Delay,</l>
+               <l>Her Martyr'd Sum for Faggots did not Pay:</l>
+               <l>The Twelve-ſcore Number tantaliz'd my Thirſt,</l>
+               <l>To greater Draughts of Blood I then did Truſt.</l>
+               <l>A Maſſacre? It Merits not the Name,</l>
+               <l>The tim'rous Act's to Me, and <hi>Rome</hi> a Shame!</l>
+               <l>Had I rul'd <hi>Hereticks</hi> but half her Years,</l>
+               <l>Their Bones, for want of room, had reacht the Spheres;</l>
+               <l>The Flames in <hi>Smithfield,</hi> like the Eternal Fire</l>
+               <l>The <hi>Perſians</hi> uſed, never ſhould Expire,</l>
+               <l>Till ſome great Change upon the State had came,</l>
+               <l>As Signal to put out the ſacred Flame:</l>
+               <l>If She a Name Immortal ſtrove to Gain,</l>
+               <l>Her Robes She ſhould have Dy'd in deeper Grain,</l>
+               <l>A Scarlet much exceeding <hi>Pilate</hi>'s Deed,</l>
+               <l>Who made his GOD (to pleaſe the Rabble) Bleed.</l>
+               <l>If you true <hi>Jeſuits</hi> intend to be,</l>
+               <l>You muſt in Miſchiefs ſtrive to equal Me;</l>
+               <l>Under my Banner Revel in ſuch Crimes,</l>
+               <l>Which being Chronicled to after times,</l>
+               <l>Poſterity Unborn may think them feign'd;</l>
+               <l>And then the Fame you've loft will be regain'd:</l>
+               <l>
+                  <pb n="6" facs="tcp:176072:4"/>
+Loath Scraps of Sin, in Sinning never lag;</l>
+               <l>But through unpity'ng Rage your Fury drag;</l>
+               <l>Gird Thoughts with Feuds, and ſhew your hot Deſire</l>
+               <l>Doth [<hi>Salamander</hi> like] reſide in Fire.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Powder-Plot,</hi> (that greateſt Strain of Wit)</l>
+               <l>Which <hi>Engliſh</hi> Calendars will ne'er forget,</l>
+               <l>A brave Deſign it was, I ca'nt but own,</l>
+               <l>Becauſe the aim was at a <hi>Lollard</hi>'s Crown,</l>
+               <l>But may the ſpightſul Star which rul'd that Night,</l>
+               <l>And brought a Plot ſo finely wrought to Light,</l>
+               <l>Ne'er ſhine again; be baniſhed the Sky;</l>
+               <l>And in Oblivion for ever lye:</l>
+               <l>
+                  <hi>Ah!</hi> Heaven I ſuppoſe did dread the Blow,</l>
+               <l>For fear the next had been their Overthrow,</l>
+               <l>Nay, had Suc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs but crown'd that high Intent,</l>
+               <l>
+                  <hi>Garnet,</hi> and <hi>I</hi> had Storm'd their Element.</l>
+               <l>If <hi>Jeſuits</hi> Launch out in Tyranny,</l>
+               <l>Do Deeds becoming that great Soul, and Me;</l>
+               <l>To all the Vices of the World be given,</l>
+               <l>And ſcorn a Friendſhip to Contract with Heaven:</l>
+               <l>Baſe Murders, Falſhood, Treaſons, Perjury,</l>
+               <l>Deceit, Injuſtice, and Hypocriſie</l>
+               <l>The <hi>Clymax</hi> are, by which you muſt aſcend</l>
+               <l>To Grand'ur; with theſe Weapons Hell defend.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Civil Wars which Right did overcome,</l>
+               <l>And brought a King to ſuffer Martyrdome,</l>
+               <l>
+                  <pb n="7" facs="tcp:176072:4"/>
+I muſt acknowledge they were by you made,</l>
+               <l>By dreſſing up y'ur <hi>Plots</hi> in Maſquerade;</l>
+               <l>O! had you, when thoſe Tumults tore the State,</l>
+               <l>Attempted to have met the threatning Fate,</l>
+               <l>Perhaps they might have ſnatcht from both the Realm,</l>
+               <l>And brought the <hi>Pope</hi> once more to ſit at Helm;</l>
+               <l>In Blood have drowned that infecting Breed,</l>
+               <l>Which from apoſtate <hi>Monks</hi> did firſt proceed:</l>
+               <l>But Fear, or ſquemiſh Conſcience did deprive</l>
+               <l>Them of that Rage by which great Actions thrive,</l>
+               <l>Which Scare-Crows ſhould be chaſed from the Mind,</l>
+               <l>Becauſe repugnant to great Sins deſign'd;</l>
+               <l>Had <hi>Alexander</hi> boggl'd at his Trade,</l>
+               <l>Or in the leaſt a tim'rous Scruple made,</l>
+               <l>Of ſpoiling Crowns, on which his Conqueſts leapt,</l>
+               <l>For ſcarcity of Worlds he had not Wept.</l>
+               <l>The <hi>Romiſh</hi> Ethicks teach you better things,</l>
+               <l>It's lawful to Depoſe, or Murder Kings,</l>
+               <l>The Doctrine's <hi>Orthodox,</hi> and <hi>Catholick,</hi>
+               </l>
+               <l>Therefore in Haeſities you need not ſtick;</l>
+               <l>The <hi>Tenets, Topicks;</hi> all thoſe ſacred Rules</l>
+               <l>You learn at <hi>Doway,</hi> and St. <hi>Omer</hi>'s Schools,</l>
+               <l>Do teach you to be Brave in what you act,</l>
+               <l>And raiſe y'ur Glory by a crimſon Fact,</l>
+               <l>By Crimes which may infernal Hoſts affright,</l>
+               <l>And ſtartle Heaven at your Sanguine Sight.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:176072:5"/>
+               <l>By Fury, Brimſtone, and the Porph'ry Chair<g ref="char:punc">▪</g>
+               </l>
+               <l>That Act which ſeem'd to Fire all the Air,</l>
+               <l>Might be compared to a Deed of mine,</l>
+               <l>Tho' ineffect'al to the main Deſign;</l>
+               <l>But yet it made the King of Hell to Smile,</l>
+               <l>To ſee <hi>Auguſta</hi> made a Fun'ral-Pile;</l>
+               <l>O Sacred Blaze! Had it's ſurprizing Light</l>
+               <l>But lit o'r Foes to Everlaſting Night,</l>
+               <l>The Deed o'r Church had made a <hi>Sacrament;</hi>
+               </l>
+               <l>Yet do I conſecrate the brave Intent.</l>
+            </lg>
+            <lg>
+               <l>Again I own in that ſame Monarch's time,</l>
+               <l>Whoſe vaſt Profuſeneſs deem'd it not a Crime,</l>
+               <l>With helpleſs Orphans Money to maintain</l>
+               <l>
+                  <hi>Nell Gwin,</hi> and others, Scandals to his Reign,</l>
+               <l>Some nobly Acted; but a Curſe on <hi>Oats!</hi>
+               </l>
+               <l>Or elſe baſe Souls had broke through bleeding Throats</l>
+               <l>To Guard a King, whoſe Royal Ghoſt had been</l>
+               <l>The firſt great Off'ring for his Country's Sin;</l>
+               <l>Whole Hecatombs of Martyrs then had fell,</l>
+               <l>
+                  <hi>A</hi> Sacrifice to <hi>Popery</hi> and <hi>Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now I'm trac'd to ſuch a Path of time,</l>
+               <l>That I muſt needs upbraid you with a Crime,</l>
+               <l>It was your fault that Fortune croſs did run,</l>
+               <l>When She was pleas'd the Scale of Fate to turn;</l>
+               <l>How faintly you did go about the Cauſe!</l>
+               <l>In taking off the Teſts and Penal Laws,</l>
+               <l>
+                  <pb n="9" facs="tcp:176072:5" rendition="simple:additions"/>
+And ſhewing ſomething of diſpenſing Power,</l>
+               <l>By ſending Stiff-neck Biſhops to the Tower;</l>
+               <l>All this for <hi>Pope,</hi> nor <hi>Devil</hi> nothing won,</l>
+               <l>Nor <hi>Polton</hi>'s Arguing with <hi>Teniſon;</hi>
+               </l>
+               <l>The greateſt Wits of <hi>Rome</hi> muſt not pretend,</l>
+               <l>By Scripture, Law, or Reaſon to defend</l>
+               <l>A Church, that Grounds her Faith upon a Lie,</l>
+               <l>She muſt maintained be by Cruelty.</l>
+               <l>So long as you'd the great Apoſtle's Sword,</l>
+               <l>You ought not to have ſcuffled with the Word,</l>
+               <l>The Bibles (Pillars to their Paper Creed)</l>
+               <l>You ſhould have Burn'd, made their Admirers Bleed,</l>
+               <l>Thoſe Books the <hi>Vatican</hi> ſhould be expell'd,</l>
+               <l>For they too long have <hi>Hereſy</hi> upheld.</l>
+               <l>Unking-like Mercy marr'd the hallow's time,</l>
+               <l>And <hi>Peter</hi>'s Bungling added to the Crime,</l>
+               <l>He Privy-Councellor! and did no more?</l>
+               <l>Curſt Memory! let Cowards it adore.</l>
+               <l>Had I been here when <hi>Charles</hi> had chang'd his State,</l>
+               <l>From that bleſt Min'te freſh Glory I would date;</l>
+               <l>I'd ſeal'd the ſacred Cauſe with Blood, and Wounds,</l>
+               <l>Alarum'd <hi>Rome</hi> with dying Martyrs Sounds;</l>
+               <l>My Noble Rage had made her to believe,</l>
+               <l>Her greatneſs from their Aſhes I'd retrieve.</l>
+               <l>I'd deckt the Houſe of Death with bloody Scenes,</l>
+               <l>As ſtrangling raviſh'd Maids not in the Teens;</l>
+               <l>So great had been my Spleen, I ſhould deflour,</l>
+               <l>Virgins which Lifeleſs lay, beſmear'd with Gore;</l>
+               <l>
+                  <pb n="10" facs="tcp:176072:6" rendition="simple:additions"/>
+Laugh'd at young Infants ſpringing from the Womb</l>
+               <l>To meet their Mothers in a flaming Tomb;</l>
+               <l>Vomited Flame upon the reaking Stage,</l>
+               <l>Without reſpect to Greatneſs, Sex, or Age,</l>
+               <l>Upon their Altars quencht the Heat of Luſt,</l>
+               <l>And laid their Churches even with the Duſt;</l>
+               <l>To ſee my Rage would pity'ng Heaven Weep,</l>
+               <l>Yet in the Road of Malice I ſhall keep:</l>
+               <l>I'd bravely ſanctify'd Saint <hi>George</hi>'s Day,</l>
+               <l>The <hi>Croſs</hi> by that time ſhould have borne the Sway,</l>
+               <l>Since from his Throne a King was tumbled down,</l>
+               <l>
+                  <hi>James</hi> ſhould have ſwam thro' Blood to catch his Crown.</l>
+            </lg>
+            <lg>
+               <l>You <hi>Janizaries</hi> of the Sulph'rous Lake!</l>
+               <l>And let y'r <hi>Order</hi>'s Honour lye at ſtake?</l>
+               <l>You <hi>Firebrands</hi> and <hi>Ingineers</hi> of Hell!</l>
+               <l>No, from the high Preferment you have fell,</l>
+               <l>Y'ur Cowardice makes you Degenerate</l>
+               <l>From me y'ur <hi>Founder,</hi> who Quells Hell, and Fate.</l>
+               <l>Heed not the <hi>Sorbonists</hi> Theology.</l>
+               <l>It's Politicks muſt buoy Popery;</l>
+               <l>O'r League with Blood Cement, in Fury rake,</l>
+               <l>'Tween Good and Bad no Criticiſmes make;</l>
+               <l>They're but the dull Conceits of idle Brains,</l>
+               <l>
+                  <hi>A</hi> true-bred Villain, God and Man Diſdains.</l>
+               <l>If in a <hi>Plot</hi> you are Unfortunate,</l>
+               <l>And muſt y'ur Exit at a <hi>Gallows</hi> Date,</l>
+               <l>
+                  <pb n="11" facs="tcp:176072:6"/>
+Nothing out of inglorious Fear confeſs,</l>
+               <l>That's prejudicial to his <hi>Holineſs;</hi>
+               </l>
+               <l>Seal up y'ur dying Speeches with a Lie,</l>
+               <l>Yet God, and Angels call to Teſtify</l>
+               <l>Y'ur Innocence, to hide the Villany.</l>
+               <l>A <hi>Baulk</hi> in Plots muſt urge you to engage</l>
+               <l>The next pitch'd Battle with a greater Rage;</l>
+               <l>You (who are taught to Spurn at Sovereignty,</l>
+               <l>And thoſe profounder Rules of Villany)</l>
+               <l>If one <hi>Plot</hi>'s cruſht, from Plotting muſt not ceaſe,</l>
+               <l>Like frightful <hi>Hydra</hi>'s Heads they muſt increaſe;</l>
+               <l>If you with Crimſon would Great <hi>Brittain</hi> Stain,</l>
+               <l>With Crimes as black as Hell, tempt Fate again,</l>
+               <l>Tempt her ſo often with ſome Hell-bred Deed,</l>
+               <l>That from y'ur Boldneſs begging to be freed,</l>
+               <l>She yields to let y'ur fell Deſigns ſucceed.</l>
+               <l>Through Furies, Devils, Blood, and Slaughter ride,</l>
+               <l>To raiſe y'ur Mother to her former Pride;</l>
+               <l>Great Souls for mean Imployments were not born,</l>
+               <l>Therefore th'Impiety of Fortune ſcorn;</l>
+               <l>And if in y'ur Intrigues you can't ſucceed</l>
+               <l>Hell yet will take the good Will for the Deed.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Jeſuits</hi> the King of Spirits bows,</l>
+               <l>Wherefore y'ur Souls to Villany eſpouſe,</l>
+               <l>To begging <hi>Fryars, Prelates,</hi> nor Pope <hi>Joan</hi>
+               </l>
+               <l>(Who left an Iſſue for the Papal Throne)</l>
+               <l>
+                  <pb n="12" facs="tcp:176072:7" rendition="simple:additions"/>
+Find no Reſpect; we only they adore;</l>
+               <l>Becauſe it's we maintain the <hi>Scarlet-Whore.</hi>
+               </l>
+               <l>To ſerve Her, from no Miſchieſs have we ſhrunk,</l>
+               <l>With Blood of Holy Saints we've made her Drunk,</l>
+               <l>From our Riſe, to buſy <hi>Godfrey</hi>'s Death,</l>
+               <l>With Gore we've almoſt ſtopt the Harlots Breath.</l>
+               <l>The Inquiſition Butchers we out-brave,</l>
+               <l>In murd'ring <hi>Hugonets</hi> we feed the Grave,</l>
+               <l>Ah! if we could but kill their Souls as well</l>
+               <l>As Bodies we ſhould quickly People Hell.</l>
+               <l>O! to o'r Glory be it, all the Gore</l>
+               <l>With which we have made Far the <hi>Gallick</hi> Shore,</l>
+               <l>The <hi>Belgick</hi> Coaſts in barb'rous <hi>Alva</hi>'s time,</l>
+               <l>And when Rage reign'd in the <hi>Hybernian</hi> Clime,</l>
+               <l>Had it but to one ſolid Mount congeal'd,</l>
+               <l>It had been high enough for us to've ſcal'd</l>
+               <l>The Lofts of Heav'n; the univerſal Flood</l>
+               <l>Rain'd not more Water, than we've Rained Blood.</l>
+               <l>Were but your tim'rous Hearts like mine, I dare</l>
+               <l>Attempt to ſet upon the Prince of Air:</l>
+               <l>In deeper Plots than what the <hi>Conclave</hi> hatch,</l>
+               <l>The great Divan of Hell I can out-match,</l>
+               <l>Therefore when Time's no more, by Plotting-art</l>
+               <l>His Government I'll ſtudy to ſubvert;</l>
+               <l>And if we fail, by force of Arms I'll try</l>
+               <l>To ruin, or uſurp his Monarchy,</l>
+               <l>Thus <hi>Loyola</hi> durſt Venture.—</l>
+               <l>
+                  <pb n="13" facs="tcp:176072:7"/>
+If <hi>Miſſ'onary</hi> Crews who rove the Earth,</l>
+               <l>To give ſome great Deſign a Noble Birth,</l>
+               <l>The <hi>Sophy,</hi> great <hi>Mogul,</hi> and <hi>Preſter John</hi>
+               </l>
+               <l>Could but Convert, the look'd for Work is done;</l>
+               <l>With aid from them theſe Kingdoms of the <hi>North</hi>
+               </l>
+               <l>I'd Cruſh to pieces, lead their Monarchs forth</l>
+               <l>As <hi>T<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>erlain</hi> his Captive in a Cage;</l>
+               <l>I'd make them feel the Plagues of <hi>Romiſh</hi> rage,</l>
+               <l>The worſt of all Outrages.—</l>
+            </lg>
+            <lg>
+               <l>You, as a Tribe which do in Sin excell,</l>
+               <l>Stand now for ever Regiſtred in Hell;</l>
+               <l>There's Honour for you, will you loſe this Fame,</l>
+               <l>Ye daſtard Wretches for a Coward's Name?</l>
+               <l>No ſurely, through Seditions, Treaſons wade,</l>
+               <l>Make Factions, Maſſacres your common Trade;</l>
+               <l>O let a <hi>Jeſuitick</hi> Rage inſpire!</l>
+               <l>To torture <hi>Proteſtants</hi> with Sword and Fire.</l>
+               <l>Track Crowns through jelly'd Gore, lead Majeſty</l>
+               <l>In Chains, and hang their Realms with <hi>Auarchy.</hi>
+               </l>
+               <l>Knives, Faggots, Shackles, O thoſe tort'ring Names!</l>
+               <l>Set my aetherial Subſtance all in Flames,</l>
+               <l>To uſe them, O I wiſh me Man again!</l>
+               <l>What baleful Streams of Blood my Hands ſhould drain,</l>
+               <l>For, one day, ripping Royal Hearts I dare</l>
+               <l>The Pains of all the fallen Angels bear.</l>
+               <l>
+                  <pb n="14" facs="tcp:176072:8" rendition="simple:additions"/>
+Undaunted Mutineers of Treachery,</l>
+               <l>Spit in the Face of Crowned Majeſty;</l>
+               <l>Although a <hi>Roman,</hi> if he will not yield</l>
+               <l>To have what you deſire be repeal'd,</l>
+               <l>Think what you are, then for the ſake of me</l>
+               <l>Tranſlate the Sov'raign from Mortality:</l>
+               <l>With thund'ring Bulls keep Crowned Heads in awe,</l>
+               <l>And make what you think fit to be a Law.</l>
+               <l>Subjects for murdering their Kings abſolve,</l>
+               <l>Plagues yet unknown on <hi>Hereticks</hi> involve:</l>
+               <l>
+                  <hi>Geneva</hi> Storm; the Drunken <hi>Danes</hi> Invade;</l>
+               <l>Stab <hi>Swedes;</hi> and let the <hi>Dutch</hi> o'r Slaves be made;</l>
+               <l>Do this, and then right <hi>Jeſuits</hi> you be,</l>
+               <l>Maugre the Shams of Heaven! follow me.</l>
+               <l>My peerleſs Courage for a Sample take,</l>
+               <l>And then the World you may to pieces ſhake.</l>
+            </lg>
+            <lg>
+               <l>But hold, brave <hi>Deſperadoes,</hi> I'm too raſh,</l>
+               <l>In one thing my command is ſomewhat harſh,</l>
+               <l>In bidding you to Venture (for o'r Cauſe)</l>
+               <l>To Kingdoms which torment with guelding Laws,</l>
+               <l>That's worſe than Death to rob you of thoſe Tools,</l>
+               <l>With which you a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t as <hi>Onan</hi> in your Schools.</l>
+               <l>The Nunneries <hi>Seraglio</hi>'s you make;</l>
+               <l>Say Maſs by P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for a Harlot's ſake;</l>
+               <l>Which I command you <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, and when you burn,</l>
+               <l>For want of <hi>N<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi> let others ſerve your turn:</l>
+               <l>
+                  <pb n="15" facs="tcp:176072:8" rendition="simple:additions"/>
+Ah! I when Humane felt the am'rous Flame,</l>
+               <l>All Females kiſs'd which to Confeſſion came.</l>
+               <l>To Chaſtity you Swear, that's but a tye</l>
+               <l>From Wedlock, not from Whoring privately;</l>
+               <l>The Church allows you Strumpets, but a Wife</l>
+               <l>Shun as a Bug-bear to a happy Life.</l>
+               <l>So for the preſent (Hectors) let alone</l>
+               <l>The State of <hi>Sweden,</hi> and the <hi>Daniſh</hi> Throne,</l>
+               <l>And puſh Plots forwards in thoſe Countries, where</l>
+               <l>You are but only ſtifled in the Air,</l>
+               <l>If unſucceſsful; that is better than</l>
+               <l>To go where they do <hi>Jeſuits</hi> unman,</l>
+            </lg>
+            <lg>
+               <l>Endeavour to bring <hi>England</hi> to o'r force,</l>
+               <l>Then other Realms will come to us by courſe;</l>
+               <l>Through winged quickneſs Plotting ſome times hits,</l>
+               <l>So nimbly ſcrew the Engines of your Wits,</l>
+               <l>And deepeſt Thoughts up to the very height</l>
+               <l>Of Envy, Malice, Fury, Rage, and Spight,</l>
+               <l>To curb this Iſle, which now hath made ſuch Laws</l>
+               <l>Which may prove dang'rous to the <hi>Romiſh</hi> Cauſe<g ref="char:punc">▪</g>
+               </l>
+               <l>Although the threefold SENATE do agree</l>
+               <l>To ſtop the Noble <hi>Growth</hi> of POPERY,</l>
+               <l>On ſuch Foundations aim to lay the Land,</l>
+               <l>That <hi>Reformation</hi> ſhall triumphant ſtand,</l>
+               <l>Yet at their Acts you muſt not be diſmay'd,</l>
+               <l>Fear humane Laws, and not of GOD afraid?</l>
+               <l>
+                  <pb n="16" facs="tcp:176072:9" rendition="simple:additions"/>
+It is a Paradox to Hell, and Me!</l>
+               <l>By ſlighting both unfold the Myſtery.</l>
+               <l>So now's the Time or Never that you muſt</l>
+               <l>No longer let this Iſland run in Truſt,</l>
+               <l>Her <hi>Peter</hi>-Pence ſhe does forget to pay,</l>
+               <l>And Triple Crown ſhe's bent to diſobey.</l>
+            </lg>
+            <lg>
+               <l>O! reſcue <hi>England</hi> from thoſe wicked Hands,</l>
+               <l>That <hi>Monaſt'ries</hi> diſſolve, and <hi>Abby</hi> Lands;</l>
+               <l>The Laws as yet do hurt but in Eſtate,</l>
+               <l>Or Life; this will not <hi>Pop'ry</hi> extirpate;</l>
+               <l>So quickly rent the Realm in twain, for fear</l>
+               <l>The Damn'd <hi>Caſtrating</hi> Law ſhould come up here,</l>
+               <l>Which if it ſhould, the fatal Work is done;</l>
+               <l>To ſave y'ur <hi>Stones,</hi> you'll all from <hi>England</hi> run:</l>
+               <l>But praying no ſuch <hi>Bills</hi> may ever paſs,</l>
+               <l>And that y'ur Plots will here eſtabliſh <hi>Maſs,</hi>
+               </l>
+               <l>I bid you all Farewell, I muſt return</l>
+               <l>To Hell where Ghoſts on Rocks of Fire burn.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176072:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
